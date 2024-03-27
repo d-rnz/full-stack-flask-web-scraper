@@ -129,7 +129,7 @@ def main():
         page = browser.new_page()
 
         for i in links:
-            page.goto(i)
+            page.goto(i, timeout=100000)
 
             # Wait for the page to load
             page.wait_for_timeout(3000)
