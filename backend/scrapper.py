@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 import sqlite3
 
 
-DB_PATH = "instance/manga.db"
+DB_PATH = "Z:\\00 CLOUD\\05 Projects\\03 Apps\\full-stack-flask-web-scraper\\backend\\instance\\manga.db"
 PAGES = 3
 
 links = [
