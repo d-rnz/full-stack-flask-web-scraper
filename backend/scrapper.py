@@ -82,9 +82,7 @@ def get_asura(page, titles):
             ###########################################################################
             # TODO: Edit when the website is updated
 
-            manga_dict["image_url"] = item.query_selector("img").get_attribute(
-                "data-src"
-            )
+            manga_dict["image_url"] = item.query_selector("img").get_attribute("src")
             manga_dict["title"] = item.query_selector("h4").inner_text()
             # Parse the latest chapter to a float
             ch = item.query_selector("li").query_selector("a").inner_text()
