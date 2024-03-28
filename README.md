@@ -20,4 +20,4 @@ Frontend:
 - JavaScript
 - React.js
 
-![Frontend](<https://github.com/d-rnz/u-tic-tac-toe-bot/blob/main/image.png?raw=true>
+![Frontend](<https://github.com/d-rnz/full-stack-flask-web-scraper/blob/main/image.png?raw=true>)
