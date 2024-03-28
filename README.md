@@ -19,3 +19,5 @@ Frontend:
 - CSS
 - JavaScript
 - React.js
+
+![Frontend](<https://github.com/d-rnz/u-tic-tac-toe-bot/blob/main/image.png?raw=true>
